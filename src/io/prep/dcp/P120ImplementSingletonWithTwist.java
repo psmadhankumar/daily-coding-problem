@@ -21,6 +21,8 @@ public class P120ImplementSingletonWithTwist {
 		System.out.println(sig3);
 		TwistSingleton sig4 = TwistSingleton.getInstance();
 		System.out.println(sig4);
+		TwistSingleton sig5 = TwistSingleton.getInstance();
+		System.out.println(sig5);
 	}
 	
 	
